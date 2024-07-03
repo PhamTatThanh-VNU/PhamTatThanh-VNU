@@ -64,7 +64,7 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) PROFILE AND MY BADGES](https://www.hackerrank.com/profile/phamtatthanh22)
-- [![JS BASIC](https://img.shields.io/badge/-COURSERA-green) Javacript Basic](https://www.hackerrank.com/certificates/7fc7f5c4b5c5)
-- [![SQL BASIC](https://img.shields.io/badge/-COURSERA-green) LEVEL BASIC](https://www.hackerrank.com/certificates/beb0fe1a242d)
-- [![SQL INTERMEDIATE](https://img.shields.io/badge/-COURSERA-green) LEVEL INTERMEDIATE](https://www.hackerrank.com/certificates/a2157e82955f)
-- [![SQR ADVANCE](https://img.shields.io/badge/-COURSERA-green) LEVEL ADVANCE](https://www.hackerrank.com/certificates/19f2e31f3c57)
+- [![JS BASIC](https://img.shields.io/badge/-CERTIFICATE-green) Javacript Basic](https://www.hackerrank.com/certificates/7fc7f5c4b5c5)
+- [![SQL BASIC](https://img.shields.io/badge/-CERTIFICATE-green) LEVEL BASIC](https://www.hackerrank.com/certificates/beb0fe1a242d)
+- [![SQL INTERMEDIATE](https://img.shields.io/badge/-CERTIFICATE-green) LEVEL INTERMEDIATE](https://www.hackerrank.com/certificates/a2157e82955f)
+- [![SQR ADVANCE](https://img.shields.io/badge/-CERTIFICATE-green) LEVEL ADVANCE](https://www.hackerrank.com/certificates/19f2e31f3c57)
