@@ -2,7 +2,7 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Pham Tat Thanh </h2> 
-<h3 align="center"> <img width="300" src="https://github.com/PhamTatThanh-VNU.png" /> </h3>
+<h3 align="center"> <img width="500" src="https://github.com/PhamTatThanh-VNU.png" /> </h3>
 <p align="center">
   <h3 align="center">Below is an over view of my projects and basic information</h3>
 </p>
