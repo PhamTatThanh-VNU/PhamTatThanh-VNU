@@ -2,7 +2,7 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Pham Tat Thanh </h2> 
-<h3 align="center"> <img width="500" src="https://github.com/PhamTatThanh-VNU.png" /> </h3>
+<p align="center"> <img width="500" src="https://github.com/PhamTatThanh-VNU.png" /> </p>
 <p align="center">
   <h3 align="center">Below is an over view of my projects and basic information</h3>
 </p>
@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PhamTatThanh-VNU&style=flat-square)
 
-## 📫 How to reach me:
+## 📫 Personal Information:
 
 <p align="center">
   <a href="https://www.facebook.com/tatthanh.phamnguyen.5" alt="Facebook">
