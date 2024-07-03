@@ -11,8 +11,6 @@
 > <br />
 > ✍ **I was born in 2004. My hometown is Thai Binh.**
 
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=PhamTatThanh-VNU&style=flat-square)
 
 ## 📫 How to reach me:
@@ -34,6 +32,10 @@
 
 ## Skills:
 <p align="center">
+  <img src="https://img.icons8.com/?size=48&id=lTKW3iI3wIT0&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=90519&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
@@ -47,7 +49,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTatThanh-VNU&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="PhamTatThanh-VNU" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=PhamTatThanh-VNU&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="PhamTatThanh-VNU" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PhamTatThanh-VNU&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" width="100%"/>
     </td>
     <td>
       <p align="center"> 
