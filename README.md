@@ -1,8 +1,8 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Pham Tat Thanh </h2> 
+<h3 align="center"> <img width="300" src="https://github.com/PhamTatThanh-VNU.png" /> </h3>
 <p align="center">
   <h3 align="center">Below is an over view of my projects and basic information</h3>
 </p>
@@ -47,7 +47,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTatThanh-VNU&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="PhamTatThanh-VNU" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=PhamTatThanh-    VNU&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="PhamTatThanh-VNU" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PhamTatThanh-VNU&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="PhamTatThanh-VNU" width="100%"/>
     </td>
     <td>
       <p align="center"> 
